@@ -27,6 +27,8 @@ body a {
       height: 40px;
       background-image: url("../image/icon/icon-menu.svg");
       background-size: 40px; }
+      #header #navbar .menu-mobi:focus {
+        box-shadow: none; }
     #header #navbar .dropdown-toggle::after {
       display: none; }
     #header #navbar .cart {
